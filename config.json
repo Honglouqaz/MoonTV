@@ -15,10 +15,6 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-    "ybwdy": {
-      "api": "https://www.ybwdy.com/api.php/provide/vod",
-      "name": "一百万电影"
-    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
